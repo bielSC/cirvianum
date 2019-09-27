@@ -1,3 +1,3 @@
 <?php
-echo "en castellano"
+echo "amb catala"
 ?>
